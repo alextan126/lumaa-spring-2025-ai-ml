@@ -2,12 +2,14 @@ This is a simple movie recommendation system built by Ruiling Tan. After clone t
 Here is a video demo, check it out:
 
 
-Create a Virtual Environment:
-   python -m venv myenv
-Activate the Virtual Environment:
-   On Windows:
-   myenv\Scripts\activate
-   On macOS/Linux:
-   source myenv/bin/activate
-Install Dependencies in the Virtual Environment:
-   pip install -r requirements.txt
+Create a Virtual Environment:  
+   python3 -m venv myenv  
+
+Activate the Virtual Environment:  
+   On Windows:  
+   myenv\Scripts\activate  
+   On macOS/Linux:  
+   source myenv/bin/activate  
+
+Install Dependencies in the Virtual Environment:  
+   pip install -r requirements.txt  
