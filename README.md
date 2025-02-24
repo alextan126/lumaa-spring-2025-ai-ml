@@ -1,5 +1,8 @@
 This is a simple movie recommendation system built by Ruiling Tan. After clone the repo, I highly recommend you to create a virtual environment to install all the necessary packages. After installing all the packages, go to recommendation_system jupyter notebook. Set the kernels to myenv and run the note book.
 Here is a video demo, check it out:
+https://drive.google.com/file/d/17HIluJVIbjT19utlnXhjIE3jGtWsrGxL/view?usp=sharing  
+My expected salary is 1500/month  
+
 
 
 Create a Virtual Environment:  
